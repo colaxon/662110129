@@ -18,7 +18,7 @@ namespace _662110129
 
         protected override void Initialize()
         {
-            // TODO: Add your initialization logic here34
+            // TODO: Add your initialization logic here3458
 
             base.Initialize();
         }
@@ -27,7 +27,7 @@ namespace _662110129
         {
             _spriteBatch = new SpriteBatch(GraphicsDevice);
 
-            // TODO: use this.Content to load your game content here2
+            // TODO: use this.Content to load your game content here25
         }
 
         protected override void Update(GameTime gameTime)
