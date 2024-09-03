@@ -27,7 +27,7 @@ namespace _662110129
         {
             _spriteBatch = new SpriteBatch(GraphicsDevice);
 
-            // TODO: use this.Content to load your game content here
+            // TODO: use this.Content to load your game content here2
         }
 
         protected override void Update(GameTime gameTime)
